@@ -1,3 +1,7 @@
+## talks:
+
+**a gentle introduction to qt for python**: [slides](https://docs.google.com/presentation/d/1lVedu2z6HNLTXos6RZy80em4yWweimtBZ5HE7UWYBgg/edit?usp=sharing), [resources](https://github.com/marimeireles/talks/tree/master/woc/pyside)
+
 ## license:
 
 As long as you're not making money out of the content you find here, you're free to use it as you wish. If you feel like it you can attribute my work to me, but if you don't, it's fine too.
