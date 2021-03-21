@@ -1,6 +1,12 @@
 ## talks:
 
 **a gentle introduction to qt for python**: [slides](https://docs.google.com/presentation/d/1lVedu2z6HNLTXos6RZy80em4yWweimtBZ5HE7UWYBgg/edit?usp=sharing), [resources](https://github.com/marimeireles/talks/tree/master/woc/pyside)
+**the git survival guide**: [slides](https://docs.google.com/presentation/d/113YxsApo6oKPp4gOH9czNXp1GrpiacnJDtS40YXN7jQ/edit?usp=sharing)
+**JupyterCon 2020: Ipycytoscape**: [slides](), [talk](https://docs.google.com/presentation/d/1a8em4B1xxesi6sgGijMEwFznmXI04TfYe5bnaVtbyeo/edit?usp=sharing)
+**JupyterCon 2020: Xeus**: [talk](https://www.youtube.com/watch?v=sFOx7kK-AyQ)
+**JupyterCon 2020: Memestra Poster**: [resources]()
+**QtCon Brasil 2020: Uma introducao 'a PySide**: [palestra](https://www.youtube.com/watch?v=QsVqnc6_SgQ)
+**PyBer: My experience with Open source**: [talk](https://www.youtube.com/watch?v=pe_G--GHtH8)
 
 ## license:
 
