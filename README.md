@@ -1,5 +1,7 @@
 ## talks:
 
+**first steps in p5js**: [slides](https://docs.google.com/presentation/d/1TnYaARaxo6C1VhNEiKo89LR6yNk1bt-GF6_Q3lNv8eA/edit?usp=sharing), [resources](https://github.com/marimeireles/talks/tree/master/woc/p5js)
+
 **a gentle introduction to qt for python**: [slides](https://docs.google.com/presentation/d/1lVedu2z6HNLTXos6RZy80em4yWweimtBZ5HE7UWYBgg/edit?usp=sharing), [resources](https://github.com/marimeireles/talks/tree/master/woc/pyside)
 
 **the git survival guide**: [slides](https://docs.google.com/presentation/d/113YxsApo6oKPp4gOH9czNXp1GrpiacnJDtS40YXN7jQ/edit?usp=sharing)
