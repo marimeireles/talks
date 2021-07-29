@@ -1,6 +1,6 @@
 ## talks:
 
-🇺🇸 
+🇺🇸 (murican english)
 
 **first steps in p5js**: [slides](https://docs.google.com/presentation/d/1TnYaARaxo6C1VhNEiKo89LR6yNk1bt-GF6_Q3lNv8eA/edit?usp=sharing), [resources](https://github.com/marimeireles/talks/tree/master/woc/p5js)
 
@@ -16,7 +16,7 @@
 
 **PyBer: My experience with Open source**: [talk](https://www.youtube.com/watch?v=pe_G--GHtH8)
 
-🇧🇷
+🇧🇷 (brasileirês)
 
 **QtCon Brasil 2020: Uma introducao a PySide**: [palestra](https://www.youtube.com/watch?v=QsVqnc6_SgQ)
 
