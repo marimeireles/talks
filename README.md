@@ -22,6 +22,8 @@
 
 **QtCon Brasil 2020: Uma introducao a PySide**: [palestra](https://www.youtube.com/watch?v=QsVqnc6_SgQ)
 
+**Guia de sobrevivência Git**: [palestra](https://docs.google.com/presentation/d/1uGExW1MxyRm9ptx4uxQNJmFouyz0wtMWdFY-wM1YMJU/edit?usp=sharing)
+
 ## license:
 
 As long as you're not making money out of the content you find here, you're free to use it as you wish. If you feel like it you can attribute my work to me, but if you don't, it's fine too.
