@@ -2,6 +2,8 @@
 
 🇺🇸 (murican english)
 
+**Open source behaviorism**: [resources](https://docs.google.com/presentation/d/1sdFZ1fuU-nQujaWuLgiabomJKGasdc5LBAjE9ApklCI/edit?usp=sharing)
+
 **Scypi 2021: ipywidgets tutorial**: [talk](https://www.youtube.com/watch?v=QAtKtVcm11I), [resources](https://github.com/jupyter-widgets/tutorial)
 
 **first steps in p5js**: [slides](https://docs.google.com/presentation/d/1TnYaARaxo6C1VhNEiKo89LR6yNk1bt-GF6_Q3lNv8eA/edit?usp=sharing), [resources](https://github.com/marimeireles/talks/tree/master/woc/p5js)
