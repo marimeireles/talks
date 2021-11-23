@@ -26,7 +26,7 @@
 
 **Guia de sobrevivência Git**: [palestra](https://docs.google.com/presentation/d/1uGExW1MxyRm9ptx4uxQNJmFouyz0wtMWdFY-wM1YMJU/edit?usp=sharing)
 
-**As luas de Jupyter 🌙: widgets e outras ferramentas que o orbitam**: [conteudo](https://github.com/marimeireles/tutorial)
+**PyCon Brasil 2021: As luas de Jupyter 🌙: widgets e outras ferramentas que o orbitam**: [conteudo](https://github.com/marimeireles/tutorial)
 
 ## license:
 
