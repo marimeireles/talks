@@ -24,11 +24,11 @@
 
 🇧🇷 (brasileirês)
 
+**PyCon Brasil 2021: As luas de Jupyter 🌙: widgets e outras ferramentas que o orbitam**: [conteudo](https://github.com/marimeireles/tutorial)
+
 **QtCon Brasil 2020: Uma introducao a PySide**: [palestra](https://www.youtube.com/watch?v=QsVqnc6_SgQ)
 
 **Guia de sobrevivência Git**: [palestra](https://docs.google.com/presentation/d/1uGExW1MxyRm9ptx4uxQNJmFouyz0wtMWdFY-wM1YMJU/edit?usp=sharing)
-
-**PyCon Brasil 2021: As luas de Jupyter 🌙: widgets e outras ferramentas que o orbitam**: [conteudo](https://github.com/marimeireles/tutorial)
 
 ## license:
 
