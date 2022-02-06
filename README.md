@@ -2,6 +2,8 @@
 
 🇺🇸 (murican english)
 
+**Fractal implementations**: [resources](https://docs.google.com/presentation/d/1ip8QnSZdF1PekqXNsBaXrsKUy65U5D767cgwd_nKli0/edit?usp=sharing)
+
 **If Shakespeare wrote Python**: [resources](https://drive.google.com/file/d/11IPLKpIu5sWGPsvAGmBNpd_kMQkygTVA/view?usp=sharing)
 
 **Open source behaviorism**: [resources](https://docs.google.com/presentation/d/1sdFZ1fuU-nQujaWuLgiabomJKGasdc5LBAjE9ApklCI/edit?usp=sharing)
