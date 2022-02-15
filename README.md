@@ -2,6 +2,8 @@
 
 🇺🇸 (murican english)
 
+**The simple web**: [resources](https://docs.google.com/presentation/d/1hoSefqb4wJy16nCynKQs0cI3iRgjH4-TQ9XItSbcEMU/edit#slide=id.p)
+
 **Fractal implementations**: [resources](https://docs.google.com/presentation/d/1ip8QnSZdF1PekqXNsBaXrsKUy65U5D767cgwd_nKli0/edit?usp=sharing)
 
 **If Shakespeare wrote Python**: [resources](https://drive.google.com/file/d/11IPLKpIu5sWGPsvAGmBNpd_kMQkygTVA/view?usp=sharing)
