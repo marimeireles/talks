@@ -2,6 +2,8 @@
 
 🇺🇸 (murican english)
 
+**Programming puzzles: Lists**: [resources](https://docs.google.com/presentation/d/1Z7rUHWAZV1Yl3G_UF4sXPeyMkQ9wEmPGFzrmtOaR620/edit#slide=id.g119131c104b_0_125)
+
 **The simple web**: [resources](https://docs.google.com/presentation/d/1hoSefqb4wJy16nCynKQs0cI3iRgjH4-TQ9XItSbcEMU/edit#slide=id.p)
 
 **Fractal implementations**: [resources](https://docs.google.com/presentation/d/1ip8QnSZdF1PekqXNsBaXrsKUy65U5D767cgwd_nKli0/edit?usp=sharing)
