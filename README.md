@@ -1,5 +1,6 @@
 ## talks:
 
+- **Environments and Packaging**: [resources](https://docs.google.com/presentation/d/1rsbR_NOysxoHN4LKZLgyJGGLfM6CwaoQtJyIGvC6mJ8/edit?usp=sharing)
 - **Jupyter Internals**: [resources](https://docs.google.com/presentation/d/1BUtW6j0U82sV0po6QiqaySmNz9NqKswQbEniKvRWljA/edit#slide=id.g2488bf090d8_0_7)
 - **Programming puzzles: Lists**: [resources](https://docs.google.com/presentation/d/1Z7rUHWAZV1Yl3G_UF4sXPeyMkQ9wEmPGFzrmtOaR620/edit#slide=id.p)
 - **The simple web**: [resources](https://docs.google.com/presentation/d/1hoSefqb4wJy16nCynKQs0cI3iRgjH4-TQ9XItSbcEMU/edit#slide=id.p)
