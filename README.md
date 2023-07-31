@@ -22,6 +22,7 @@
 - **Harvard: performance, OOP, open science, distributed computing**
 - **NASA: open science EDx class**
 - **Environments and Packaging**: [resources](https://docs.google.com/presentation/d/1rsbR_NOysxoHN4LKZLgyJGGLfM6CwaoQtJyIGvC6mJ8/edit?usp=sharing)
+- **Pytest + Github Actions**: [resource](https://docs.google.com/presentation/d/1VxmDHYtn8CA1M-5DMlsfk-yaG9HeSb1Lyjq2w5PEnXE/edit?usp=sharing)
 
 ## podcasts:
 
