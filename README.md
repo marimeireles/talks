@@ -19,10 +19,12 @@
 
 ## classes:
 
-- **Harvard: performance, OOP, open science, distributed computing**
+- **Harvard: performance, OOP, open science, distributed computing**: [resources](https://github.com/marimeireles/lectures) Unfortunately not the final version
 - **NASA: open science EDx class**
 - **Environments and Packaging**: [resources](https://docs.google.com/presentation/d/1rsbR_NOysxoHN4LKZLgyJGGLfM6CwaoQtJyIGvC6mJ8/edit?usp=sharing)
 - **Pytest + Github Actions**: [resource](https://docs.google.com/presentation/d/1VxmDHYtn8CA1M-5DMlsfk-yaG9HeSb1Lyjq2w5PEnXE/edit?usp=sharing)
+- **Python Packaging**: [resource](https://docs.google.com/presentation/d/1VWSpluwdJcXJ6KtBwYzJ6_EUN4qc6l3RxymJC3GUc3k/edit#slide=id.g28d73939f3c_0_327)
+- **Thoughts on software engineering**: [resource]([https://docs.google.com/presentation/d/1arAF4DnxTi6kY9NNWI8dNcmAgkOLZZgyfutpl4Mv7XY/edit#slide=id.g24f04f9fa99_0_57](https://docs.google.com/presentation/d/1R-aIiElvw1wJyjRFYSQwOSiXKct2M0i6voEAfOXgSac/edit#slide=id.g2529078b402_0_124))
 
 ## podcasts:
 
