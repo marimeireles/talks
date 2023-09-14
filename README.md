@@ -15,7 +15,6 @@
 - Working towards coordination: motivation and short introduction to AI Coordination [resources](https://docs.google.com/presentation/d/1fmm1eGGmVNAHIpNF3Eqf8xzSSEnwEdU0F6JM8mVIj1o/edit?usp=sharing)
 - Jupyter internals: Jupyter's implementation details and how to contribute: [resources](https://docs.google.com/presentation/d/1BUtW6j0U82sV0po6QiqaySmNz9NqKswQbEniKvRWljA/edit#slide=id.g2488bf090d8_0_7)
 - Programming puzzles: Lists: [resources](https://docs.google.com/presentation/d/1Z7rUHWAZV1Yl3G_UF4sXPeyMkQ9wEmPGFzrmtOaR620/edit#slide=id.p)
-- The simple web: how to build your own website using free resources: [resources](https://docs.google.com/presentation/d/1hoSefqb4wJy16nCynKQs0cI3iRgjH4-TQ9XItSbcEMU/edit#slide=id.p)
 - Fractal implementations: an introduction about fractals and how to implement them: [resources](https://docs.google.com/presentation/d/1ip8QnSZdF1PekqXNsBaXrsKUy65U5D767cgwd_nKli0/edit?usp=sharing)
 - Open Source behaviorism: the various fields at play when analysing Open Source: [resources](https://docs.google.com/presentation/d/1sdFZ1fuU-nQujaWuLgiabomJKGasdc5LBAjE9ApklCI/edit?usp=sharing)
 - If Shakespeare wrote Python: how to write more pythonic Python: [resources](https://drive.google.com/file/d/11IPLKpIu5sWGPsvAGmBNpd_kMQkygTVA/view?usp=sharing)
@@ -37,6 +36,7 @@
 - Pytest + Github Actions: how to set up your environment: [resource](https://docs.google.com/presentation/d/1VxmDHYtn8CA1M-5DMlsfk-yaG9HeSb1Lyjq2w5PEnXE/edit?usp=sharing)
 - Python Packaging: how to release your own Python package in Pypi and Conda: [resource](https://docs.google.com/presentation/d/1VWSpluwdJcXJ6KtBwYzJ6_EUN4qc6l3RxymJC3GUc3k/edit#slide=id.g28d73939f3c_0_327)
 - Thoughts on software engineering: discussing software design and archictecture choices: [resource](https://docs.google.com/presentation/d/1R-aIiElvw1wJyjRFYSQwOSiXKct2M0i6voEAfOXgSac/edit?usp=sharing)
+- The simple web: how to build your own website using free resources: [resources](https://docs.google.com/presentation/d/1hoSefqb4wJy16nCynKQs0cI3iRgjH4-TQ9XItSbcEMU/edit#slide=id.p)
 
 # Podcasts
 
