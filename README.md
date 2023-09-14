@@ -36,7 +36,7 @@
 - Pytest + Github Actions: how to set up your environment: [resource](https://docs.google.com/presentation/d/1VxmDHYtn8CA1M-5DMlsfk-yaG9HeSb1Lyjq2w5PEnXE/edit?usp=sharing)
 - Python Packaging: how to release your own Python package in Pypi and Conda: [resource](https://docs.google.com/presentation/d/1VWSpluwdJcXJ6KtBwYzJ6_EUN4qc6l3RxymJC3GUc3k/edit#slide=id.g28d73939f3c_0_327)
 - Thoughts on software engineering: discussing software design and archictecture choices: [resource](https://docs.google.com/presentation/d/1R-aIiElvw1wJyjRFYSQwOSiXKct2M0i6voEAfOXgSac/edit?usp=sharing)
-- The simple web: how to build your own website using free resources: [resources](https://docs.google.com/presentation/d/1hoSefqb4wJy16nCynKQs0cI3iRgjH4-TQ9XItSbcEMU/edit#slide=id.p)([supporting material](https://cyborgdream.github.io/complicated-web/) for outdated jekyll dependencies)
+- The simple web: how to build your own website using free resources: [resources](https://docs.google.com/presentation/d/1hoSefqb4wJy16nCynKQs0cI3iRgjH4-TQ9XItSbcEMU/edit#slide=id.p) and [supporting material](https://cyborgdream.github.io/complicated-web/) for outdated jekyll dependencies
 
 # Podcasts
 
