@@ -5,8 +5,8 @@
 #### Conferences:
 
 - PythonPizza Hamburg 2023: How to build an universe from scratch: [talk](https://www.youtube.com/live/0Fp_lQ1oimE?si=uejeo5a1jGSFub47&t=22157), [resources]()
-- Scypi 2021: ipywidgets tutorial: [talk](https://www.youtube.com/watch?v=QAtKtVcm11I), [resources](https://github.com/jupyter-widgets/tutorial)
-- Scypi 2022: ipywidgets tutorial: [talk](https://www.youtube.com/watch?v=QAtKtVcm11I), [resources](https://github.com/jupyter-widgets/tutorial)
+- Scipy 2021: ipywidgets tutorial: [talk](https://www.youtube.com/watch?v=QAtKtVcm11I), [resources](https://github.com/jupyter-widgets/tutorial)
+- Scipy 2022: ipywidgets tutorial: [talk](https://www.youtube.com/watch?v=1vuI22MkkrY), [resources](https://github.com/jupyter-widgets/tutorial)
 - JupyterCon 2020: ipycytoscape: [slides](), [talk](https://docs.google.com/presentation/d/1a8em4B1xxesi6sgGijMEwFznmXI04TfYe5bnaVtbyeo/edit?usp=sharing)
 - JupyterCon 2020: Xeus: [talk](https://www.youtube.com/watch?v=sFOx7kK-AyQ)
 - JupyterCon 2020: Memestra Poster: [resources](https://cfp.jupytercon.com/2020/schedule/presentation/241/what-can-static-analyses-do-for-your-jupyterlab-project/)
