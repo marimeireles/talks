@@ -11,7 +11,7 @@
 - JupyterCon 2020: Xeus: [talk](https://www.youtube.com/watch?v=sFOx7kK-AyQ)
 - JupyterCon 2020: Memestra Poster: [resources](https://cfp.jupytercon.com/2020/schedule/presentation/241/what-can-static-analyses-do-for-your-jupyterlab-project/)
 
-#### Meetups, unconferences and fellowships:
+#### Meetups and unconferences:
 
 - Working towards coordination: motivation and short introduction to AI Coordination [resources](https://docs.google.com/presentation/d/1fmm1eGGmVNAHIpNF3Eqf8xzSSEnwEdU0F6JM8mVIj1o/edit?usp=sharing)
 - Jupyter internals: Jupyter's implementation details and how to contribute: [resources](https://docs.google.com/presentation/d/1BUtW6j0U82sV0po6QiqaySmNz9NqKswQbEniKvRWljA/edit#slide=id.g2488bf090d8_0_7)
